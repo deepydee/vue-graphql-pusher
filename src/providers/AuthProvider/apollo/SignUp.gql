@@ -1,0 +1,6 @@
+mutation SignUp($input: RegisterInput!) {
+  register(input: $input) {
+    token
+    status
+  }
+}
