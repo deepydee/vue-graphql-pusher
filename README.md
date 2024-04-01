@@ -1,35 +1,12 @@
-# ws-playground
+# GraphQL Subscription Playground
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+References:
+https://docs.soketi.app/
+https://github.com/Safemood/soketi-docker-compose/blob/main/docker-compose.yml
+https://apollo.vuejs.org/guide-composable/subscription.html
+https://github.com/LaravelDaily/Laravel-GraphQL-Course-Client
+https://www.howtographql.com/vue-apollo/5-authentication/
+https://tech.bravado.co/authorization-with-vue-3-and-apollo/
+https://github.com/Bravado-network/vue3-apollo-auth/tree/main
+https://www.youtube.com/watch?v=LGnJ308z_Eo&ab_channel=PavelZloiakaEvilFreelancer
+https://github.com/EvilFreelancer/laravel-lighthouse-example/tree/master
